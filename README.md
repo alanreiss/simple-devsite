@@ -1,6 +1,8 @@
 ### :pencil2: Sobre o projeto
 Meu primeiro projeto feito do Zero para praticar HTML e CSS.
 
+[Acesse o site](https://github.com/alanreiss/simple-devsite)
+
 ### :computer: Tecnologias utilizadas
 - HTML
 - CSS with Flexbox
